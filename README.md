@@ -9,4 +9,7 @@ Luego, es necesario seguir con la instalación de manera normal. **Es importante
 
 Una vez que tengan la ruta y su JDK instalado deben agregar este elemento a sus variables de entorno como es mostrado en la cápsula de video dejada más abajo.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/17Ns_GZTskopNOLs3Lix6TtX20U4OzuDm/view)
+[![Watch the video](https://i.ibb.co/dkM1WDg/Captura-de-pantalla-2022-03-21-222252.png)](https://drive.google.com/file/d/17Ns_GZTskopNOLs3Lix6TtX20U4OzuDm/view)
+
+### Instalación en Ubuntu.
+En proceso...
