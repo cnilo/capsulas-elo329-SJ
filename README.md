@@ -12,4 +12,12 @@ Una vez que tengan la ruta y su JDK instalado deben agregar este elemento a sus 
 [![Watch the video](https://i.ibb.co/dkM1WDg/Captura-de-pantalla-2022-03-21-222252.png)](https://drive.google.com/file/d/17Ns_GZTskopNOLs3Lix6TtX20U4OzuDm/view)
 
 ### Instalación en Ubuntu.
-En proceso...
+Correr los comandos del Bash
+```console
+cnilo@arrakis:~$ sudo apt install
+```
+```console
+cnilo@arrakis:~$ sudo apt install default-jre
+```
+[![Watch the video](https://i.ibb.co/VDbz13B/Captura-de-Pantalla-2022-04-07-a-la-s-11-26-43.png)](https://drive.google.com/file/d/18pbAxgkTohrkWFToxzIqXP-4CAC62slS/view)
+
